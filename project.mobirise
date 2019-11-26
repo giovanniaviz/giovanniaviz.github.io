@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page1.html",
+    "currentPage": "jumbed.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -58,7 +58,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 16,
+    "uniqCompNum": 22,
     "versionPublish": "4.11.6"
   },
   "pages": {
@@ -583,10 +583,10 @@
         }
       ]
     },
-    "page1.html": {
+    "jumbed.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
-        "title": "Page 1",
+        "title": "",
         "order": 1
       },
       "components": [
